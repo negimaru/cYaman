@@ -1,2 +1,3 @@
-# cYaman
-El De Las telenovelas
+## Plugin para Chrome
+
+Transforma todas tus imagenes en doofinders, salemanagos y teclados mecanicos
